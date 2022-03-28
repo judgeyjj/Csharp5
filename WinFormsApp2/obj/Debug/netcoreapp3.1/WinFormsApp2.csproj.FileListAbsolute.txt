@@ -1,0 +1,15 @@
+G:\project\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.exe
+G:\project\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.deps.json
+G:\project\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.json
+G:\project\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.runtimeconfig.dev.json
+G:\project\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.dll
+G:\project\WinFormsApp2\bin\Debug\netcoreapp3.1\WinFormsApp2.pdb
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.AssemblyReference.cache
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.Form1.resources
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.GenerateResource.cache
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfoInputs.cache
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.AssemblyInfo.cs
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.csproj.CoreCompileInputs.cache
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.dll
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.pdb
+G:\project\WinFormsApp2\obj\Debug\netcoreapp3.1\WinFormsApp2.genruntimeconfig.cache

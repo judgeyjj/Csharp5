@@ -1,0 +1,7 @@
+G:\project\cshomework05_tests\obj\x86\Debug\cshomework05_tests.csproj.AssemblyReference.cache
+G:\project\cshomework05_tests\obj\x86\Debug\UnitTestApp.g.i.cs
+G:\project\cshomework05_tests\obj\x86\Debug\UnitTestApp.g.cs
+G:\project\cshomework05_tests\obj\x86\Debug\UnitTestApp.xaml
+G:\project\cshomework05_tests\obj\x86\Debug\UnitTestApp.xbf
+G:\project\cshomework05_tests\obj\x86\Debug\XamlTypeInfo.g.cs
+G:\project\cshomework05_tests\obj\x86\Debug\XamlSaveStateFile.xml
